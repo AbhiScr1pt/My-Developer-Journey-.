@@ -14,12 +14,22 @@ Welcome to my Developer Journey! This repository documents my day-by-day learnin
 ```text
 My-Developer-Journey-/
 │
-├── MERN-Stack/
-│   └── HTML-CSS/
-│       ├── 1st-webpage/
-│       └── project 2/
+├── README.md
 │
-└── Java-DSA/
+├── Java-DSA/
+│   └── README.md
+│
+└── MERN-Stack/
+    └── HTML-CSS/
+        ├── 1st-webpage/
+        │   ├── index.html
+        │   ├── style.css
+        │   └── README.md
+        │
+        └── project 2/
+            ├── index.html
+            ├── style.css
+            └── README.md
 ```
 
 ## 🎯 My Goals
@@ -35,4 +45,3 @@ My-Developer-Journey-/
 I regularly update this repository with my learning progress, coding practice, and projects.
 
 **Learning every day. Building step by step.**
-
