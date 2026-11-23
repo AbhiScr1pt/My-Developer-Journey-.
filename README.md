@@ -12,7 +12,7 @@ Welcome to my Developer Journey! This repository documents my day-by-day learnin
 ## 📁 Repository Structure
 
 ```text
-My-Developer-Journey/
+My-Developer-Journey-/
 │
 ├── MERN-Stack/
 │   └── HTML-CSS/
@@ -35,3 +35,4 @@ My-Developer-Journey/
 I regularly update this repository with my learning progress, coding practice, and projects.
 
 **Learning every day. Building step by step.**
+
