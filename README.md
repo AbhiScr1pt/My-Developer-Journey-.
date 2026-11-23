@@ -12,12 +12,12 @@ Welcome to my Developer Journey! This repository documents my day-by-day learnin
 ## 📁 Repository Structure
 
 ```text
-developer-journey/
+My-Developer-Journey/
 │
 ├── MERN-Stack/
 │   └── HTML-CSS/
 │       ├── 1st-webpage/
-│       └── Project-2/
+│       └── project 2/
 │
 └── Java-DSA/
 ```
